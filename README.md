@@ -1,4 +1,4 @@
-- 👋 <h1>Hi, I’m @Evarmedia<h1>
+- 👋 <h1>Hi, I’m Mishak<h1>
 - 👀 I’m A Frontend Web Developer
 - 🌱 I’m currently learning Full-stack Development
 - 💞️ I’m looking to collaborate on any cool project related to  programming
