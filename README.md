@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mishak Mosi</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+
+<div align="center">
+  
+  ![Visitors](https://visitcount.itsvg.in/api?id=Ham12-3&label=Profile%20Views&color=1&pretty=false) [![wakatime](https://wakatime.com/badge/user/b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e.svg?style=plastic&labelColor=16161A&color=7F5AF0)](https://wakatime.com/@b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e)  
+
+</div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋;+I'm+Mishak+Mosimabale!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from United Kingdom <sub>UK</sub> </h3>
+
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evarmedia" alt="evarmedia" /></a> </p>
 
