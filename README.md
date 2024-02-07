@@ -9,9 +9,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋;+I'm+Mishak+Mosimabale!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from United Kingdom <sub>UK</sub> </h3>
+<h3 align="center">A passionate software developer from Nigeria <sub>NG</sub> </h3>
 
 <br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently a student at ALX... working on **DevOps and full stack web apps**
+ 
+ 🌱 I’m currently learning **Tailwind, MERN stack, Next.js, Python Django with PostgreSQL,**
+
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/Evarmedia/Evarmedia/issues)**
+
+ ⚡ Fun fact **I love to play Chess**
+ 
+ </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evarmedia" alt="evarmedia" /></a> </p>
 
@@ -41,3 +53,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evarmedia&show_icons=true&locale=en" alt="evarmedia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evarmedia&" alt="evarmedia" /></p>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+<hr/>
