@@ -27,13 +27,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evarmedia" alt="evarmedia" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sage_heartt" target="blank"><img src="https://img.shields.io/twitter/follow/sage_heartt?logo=twitter&style=for-the-badge" alt="sage_heartt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mosicodes" target="blank"><img src="https://img.shields.io/twitter/follow/mosicodes?logo=twitter&style=for-the-badge" alt="sage_heartt" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/evarmedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="evarmedia" height="30" width="40" /></a>
 <a href="https://dev.to/mishakmosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/mishakmosi" height="30" width="40" /></a>
-<a href="https://twitter.com/sage_heartt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sage_heartt" height="30" width="40" /></a>
+<a href="https://twitter.com/mosicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mosicodes" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mishak-mosimabale-1a937b119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mishak-mosimabale-1a937b119/" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/mosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/mosi" height="30" width="40" /></a>
 <a href="https://fb.com/mishakmosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mishakmosi" height="30" width="40" /></a>
